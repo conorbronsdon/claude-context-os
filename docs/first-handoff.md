@@ -75,6 +75,11 @@ and whether you could explain what was saved. If the answer is wrong, inspect
 the source and proposal first: was the fact saved, replaced, omitted, or simply
 not used? Run `bash scripts/contextos.sh doctor` for setup problems.
 
+To test what happens when a decision changes, see
+[how to spot stale context and test your next session](https://chainofthought.show/context-engineering/?utm_source=github&utm_medium=referral&utm_campaign=repo-first-handoff&utm_content=agent-context-os)
+on Chain of Thought. The resource includes a separate, downloadable exercise
+with repaired and conflicting handoffs, plus the conversations behind the practice.
+
 For controlled comparisons with a plain handoff note, use the
 [continuity benchmark](continuity-benchmark.md). For your own project, continue
 with [getting started](getting-started.md); select additional agents and imports
